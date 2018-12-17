@@ -2,3 +2,4 @@ syntax: glob
 *.gz
 *.csv
 .ipynb_checkpoints
+*.bin
